@@ -25,6 +25,7 @@
 </head>
 <body>
     <h1>Lane Swimming Times</h1>
+    <p id="last-updated"></p>
     <table>
         <thead>
             <tr>
@@ -41,8 +42,10 @@
         fetch('lane_swim_times.json')
             .then(response => response.json())
             .then(data => {
+                const lastUpdated = document.getElementById('last-updated');
+                lastUpdated.textContent = `Last updated: ${data.last_updated}`;
                 const tbody = document.getElementById('swim-times');
-                data.forEach(item => {
+                data.lane_swim_times.forEach(item => {
                     const row = document.createElement('tr');
                     row.innerHTML = `
                         <td>${item.date}</td>

@@ -63,10 +63,15 @@ def main():
             all_lane_swim_times.extend(lane_swim_times)
     # Sort the lane swim times by date
     all_lane_swim_times.sort(key=lambda x: datetime.strptime(x['date'], '%A, %B %d, %Y'))
+    # Add last updated timestamp
+    output_data = {
+        'last_updated': today.strftime('%Y-%m-%d %H:%M:%S'),
+        'lane_swim_times': all_lane_swim_times
+    }
     # Save the JSON file in the web directory
     web_dir = os.path.join(os.path.dirname(__file__), '..', 'web')
     with open(os.path.join(web_dir, 'lane_swim_times.json'), 'w') as f:
-        json.dump(all_lane_swim_times, f, indent=4)
+        json.dump(output_data, f, indent=4)
 
 if __name__ == '__main__':
     main()

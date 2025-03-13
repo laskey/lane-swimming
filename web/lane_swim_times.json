@@ -1,642 +1,645 @@
-[
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "07:00 AM - 09:15 AM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "11:15 AM - 03:15 PM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "08:30 PM - 09:30 PM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:15 AM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "12:30 PM - 02:00 PM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Thursday, March 13, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "12:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "04:30 PM - 06:00 PM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "08:15 PM - 09:30 PM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Friday, March 14, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Saturday, March 15, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "04:15 PM - 05:15 PM"
-    },
-    {
-        "date": "Saturday, March 15, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "03:45 PM - 05:15 PM"
-    },
-    {
-        "date": "Saturday, March 15, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    },
-    {
-        "date": "Sunday, March 16, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "04:15 PM - 05:15 PM"
-    },
-    {
-        "date": "Sunday, March 16, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "03:45 PM - 05:15 PM"
-    },
-    {
-        "date": "Sunday, March 16, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    },
-    {
-        "date": "Monday, March 17, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Monday, March 17, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "12:00 PM - 01:00 PM"
-    },
-    {
-        "date": "Monday, March 17, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Monday, March 17, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Tuesday, March 18, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Tuesday, March 18, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:30 PM - 03:15 PM"
-    },
-    {
-        "date": "Tuesday, March 18, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Wednesday, March 19, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Wednesday, March 19, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:30 PM - 03:15 PM"
-    },
-    {
-        "date": "Wednesday, March 19, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Thursday, March 20, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Thursday, March 20, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Thursday, March 20, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Friday, March 21, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Friday, March 21, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Friday, March 21, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Saturday, March 22, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    },
-    {
-        "date": "Sunday, March 23, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    },
-    {
-        "date": "Monday, March 24, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Monday, March 24, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Monday, March 24, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Monday, March 24, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "12:00 PM - 01:00 PM"
-    },
-    {
-        "date": "Monday, March 24, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Monday, March 24, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Tuesday, March 25, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:15 AM"
-    },
-    {
-        "date": "Tuesday, March 25, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "12:30 PM - 02:00 PM"
-    },
-    {
-        "date": "Tuesday, March 25, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Tuesday, March 25, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Tuesday, March 25, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:30 PM - 03:15 PM"
-    },
-    {
-        "date": "Tuesday, March 25, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Wednesday, March 26, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Wednesday, March 26, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Wednesday, March 26, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Wednesday, March 26, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:30 PM - 03:15 PM"
-    },
-    {
-        "date": "Wednesday, March 26, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Thursday, March 27, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:15 AM"
-    },
-    {
-        "date": "Thursday, March 27, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "12:30 PM - 02:00 PM"
-    },
-    {
-        "date": "Thursday, March 27, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Thursday, March 27, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Thursday, March 27, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Thursday, March 27, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Friday, March 28, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Friday, March 28, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Friday, March 28, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Friday, March 28, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Friday, March 28, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Friday, March 28, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Saturday, March 29, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    },
-    {
-        "date": "Sunday, March 30, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    },
-    {
-        "date": "Monday, March 31, 2025",
-        "pool_name": "Vaughan Road Academy",
-        "lane_swim_time": "07:15 PM - 08:45 PM"
-    },
-    {
-        "date": "Monday, March 31, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Monday, March 31, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Monday, March 31, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Monday, March 31, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Monday, March 31, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "07:00 AM - 09:15 AM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "11:15 AM - 03:15 PM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "08:30 PM - 09:30 PM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "Vaughan Road Academy",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:30 PM - 03:15 PM"
-    },
-    {
-        "date": "Tuesday, April 01, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "12:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "08:30 PM - 09:30 PM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "Vaughan Road Academy",
-        "lane_swim_time": "07:15 PM - 08:45 PM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:30 PM - 03:15 PM"
-    },
-    {
-        "date": "Wednesday, April 02, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "07:00 AM - 09:15 AM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "11:15 AM - 03:15 PM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "08:30 PM - 09:30 PM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "Vaughan Road Academy",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Thursday, April 03, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "12:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "04:30 PM - 06:00 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "08:15 PM - 09:30 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Vaughan Road Academy",
-        "lane_swim_time": "07:15 PM - 08:45 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "07:00 AM - 08:30 AM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "11:45 AM - 02:00 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "08:00 PM - 09:30 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "07:00 AM - 09:00 AM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "02:15 PM - 03:15 PM"
-    },
-    {
-        "date": "Friday, April 04, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "08:00 PM - 09:00 PM"
-    },
-    {
-        "date": "Saturday, April 05, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "04:15 PM - 05:15 PM"
-    },
-    {
-        "date": "Saturday, April 05, 2025",
-        "pool_name": "Vaughan Road Academy",
-        "lane_swim_time": "02:45 PM - 03:45 PM"
-    },
-    {
-        "date": "Saturday, April 05, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "03:45 PM - 05:15 PM"
-    },
-    {
-        "date": "Saturday, April 05, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    },
-    {
-        "date": "Sunday, April 06, 2025",
-        "pool_name": "Piccininni",
-        "lane_swim_time": "04:15 PM - 05:15 PM"
-    },
-    {
-        "date": "Sunday, April 06, 2025",
-        "pool_name": "Vaughan Road Academy",
-        "lane_swim_time": "02:45 PM - 03:45 PM"
-    },
-    {
-        "date": "Sunday, April 06, 2025",
-        "pool_name": "North Toronto",
-        "lane_swim_time": "03:45 PM - 05:15 PM"
-    },
-    {
-        "date": "Sunday, April 06, 2025",
-        "pool_name": "Wallace Emerson",
-        "lane_swim_time": "01:30 PM - 02:30 PM"
-    }
-]
+{
+    "last_updated": "2025-03-13 12:44:30",
+    "lane_swim_times": [
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 09:15 AM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:15 AM - 03:15 PM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:15 AM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "12:30 PM - 02:00 PM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Thursday, March 13, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "12:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "04:30 PM - 06:00 PM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:15 PM - 09:30 PM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Friday, March 14, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Saturday, March 15, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "04:15 PM - 05:15 PM"
+        },
+        {
+            "date": "Saturday, March 15, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "03:45 PM - 05:15 PM"
+        },
+        {
+            "date": "Saturday, March 15, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        },
+        {
+            "date": "Sunday, March 16, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "04:15 PM - 05:15 PM"
+        },
+        {
+            "date": "Sunday, March 16, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "03:45 PM - 05:15 PM"
+        },
+        {
+            "date": "Sunday, March 16, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        },
+        {
+            "date": "Monday, March 17, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Monday, March 17, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "12:00 PM - 01:00 PM"
+        },
+        {
+            "date": "Monday, March 17, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Monday, March 17, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Tuesday, March 18, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Tuesday, March 18, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "Tuesday, March 18, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Wednesday, March 19, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Wednesday, March 19, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "Wednesday, March 19, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Thursday, March 20, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Thursday, March 20, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Thursday, March 20, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Friday, March 21, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Friday, March 21, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Friday, March 21, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Saturday, March 22, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        },
+        {
+            "date": "Sunday, March 23, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        },
+        {
+            "date": "Monday, March 24, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Monday, March 24, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Monday, March 24, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Monday, March 24, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "12:00 PM - 01:00 PM"
+        },
+        {
+            "date": "Monday, March 24, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Monday, March 24, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Tuesday, March 25, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:15 AM"
+        },
+        {
+            "date": "Tuesday, March 25, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "12:30 PM - 02:00 PM"
+        },
+        {
+            "date": "Tuesday, March 25, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Tuesday, March 25, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Tuesday, March 25, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "Tuesday, March 25, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Wednesday, March 26, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Wednesday, March 26, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Wednesday, March 26, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Wednesday, March 26, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "Wednesday, March 26, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Thursday, March 27, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:15 AM"
+        },
+        {
+            "date": "Thursday, March 27, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "12:30 PM - 02:00 PM"
+        },
+        {
+            "date": "Thursday, March 27, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Thursday, March 27, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Thursday, March 27, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Thursday, March 27, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Friday, March 28, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Friday, March 28, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Friday, March 28, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Friday, March 28, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Friday, March 28, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Friday, March 28, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Saturday, March 29, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        },
+        {
+            "date": "Sunday, March 30, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        },
+        {
+            "date": "Monday, March 31, 2025",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "07:15 PM - 08:45 PM"
+        },
+        {
+            "date": "Monday, March 31, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Monday, March 31, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Monday, March 31, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Monday, March 31, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Monday, March 31, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 09:15 AM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:15 AM - 03:15 PM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "Tuesday, April 01, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "12:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "07:15 PM - 08:45 PM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "Wednesday, April 02, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 09:15 AM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:15 AM - 03:15 PM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Thursday, April 03, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "12:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "04:30 PM - 06:00 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:15 PM - 09:30 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "07:15 PM - 08:45 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 02:00 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Friday, April 04, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Saturday, April 05, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "04:15 PM - 05:15 PM"
+        },
+        {
+            "date": "Saturday, April 05, 2025",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "Saturday, April 05, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "03:45 PM - 05:15 PM"
+        },
+        {
+            "date": "Saturday, April 05, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        },
+        {
+            "date": "Sunday, April 06, 2025",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "04:15 PM - 05:15 PM"
+        },
+        {
+            "date": "Sunday, April 06, 2025",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "Sunday, April 06, 2025",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "03:45 PM - 05:15 PM"
+        },
+        {
+            "date": "Sunday, April 06, 2025",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:30 PM - 02:30 PM"
+        }
+    ]
+}
