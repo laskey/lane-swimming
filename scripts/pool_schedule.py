@@ -2,6 +2,7 @@ import requests
 from datetime import datetime, timedelta
 import calendar
 import json
+import os
 
 # Pool information
 pools = [
@@ -62,7 +63,9 @@ def main():
             all_lane_swim_times.extend(lane_swim_times)
     # Sort the lane swim times by date
     all_lane_swim_times.sort(key=lambda x: datetime.strptime(x['date'], '%A, %B %d, %Y'))
-    with open('lane_swim_times.json', 'w') as f:
+    # Save the JSON file in the web directory
+    web_dir = os.path.join(os.path.dirname(__file__), '..', 'web')
+    with open(os.path.join(web_dir, 'lane_swim_times.json'), 'w') as f:
         json.dump(all_lane_swim_times, f, indent=4)
 
 if __name__ == '__main__':

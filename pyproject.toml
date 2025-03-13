@@ -1,6 +1,7 @@
 [project]
 name = "lane-swimming"
 requires-python = ">=3.11"
+version = "0.1"
 dependencies = [
     "requests>=2.32.3",
 ]
