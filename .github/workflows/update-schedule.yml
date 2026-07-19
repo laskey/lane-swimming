@@ -1,0 +1,38 @@
+name: Update lane swim times
+
+on:
+  schedule:
+    - cron: "0 15 * * *" # 11:00 EDT / 10:00 EST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    env:
+      TZ: America/Toronto
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Fetch pool schedules
+        run: |
+          pip install requests
+          python scripts/pool_schedule.py
+
+      - name: Commit updated schedule
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet web/lane_swim_times.json; then
+            echo "No schedule changes."
+          else
+            git add web/lane_swim_times.json
+            git commit -m "Update lane swim times"
+            git push
+          fi
