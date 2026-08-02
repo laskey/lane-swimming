@@ -1,21 +1,6 @@
 {
-    "last_updated": "2026-08-01 11:57:05",
+    "last_updated": "2026-08-02 11:56:24",
     "lane_swim_times": [
-        {
-            "date": "Saturday, August 01, 2026",
-            "pool_name": "Vaughan Road Academy",
-            "lane_swim_time": "02:45 PM - 03:45 PM"
-        },
-        {
-            "date": "Saturday, August 01, 2026",
-            "pool_name": "North Toronto",
-            "lane_swim_time": "02:00 PM - 05:00 PM"
-        },
-        {
-            "date": "Saturday, August 01, 2026",
-            "pool_name": "Wallace Emerson",
-            "lane_swim_time": "01:15 PM - 02:15 PM"
-        },
         {
             "date": "Sunday, August 02, 2026",
             "pool_name": "Vaughan Road Academy",
