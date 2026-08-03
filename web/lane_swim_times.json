@@ -1,22 +1,7 @@
 {
-    "last_updated": "2026-08-02 11:56:24",
+    "last_updated": "2026-08-03 13:06:21",
     "lane_swim_times": [
         {
-            "date": "Sunday, August 02, 2026",
-            "pool_name": "Vaughan Road Academy",
-            "lane_swim_time": "02:45 PM - 03:45 PM"
-        },
-        {
-            "date": "Sunday, August 02, 2026",
-            "pool_name": "North Toronto",
-            "lane_swim_time": "02:00 PM - 05:00 PM"
-        },
-        {
-            "date": "Sunday, August 02, 2026",
-            "pool_name": "Wallace Emerson",
-            "lane_swim_time": "01:15 PM - 02:15 PM"
-        },
-        {
             "date": "Tuesday, August 04, 2026",
             "pool_name": "Piccininni",
             "lane_swim_time": "07:00 AM - 08:45 AM"
@@ -948,6 +933,291 @@
         },
         {
             "date": "Sunday, August 23, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:15 PM - 02:15 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 09:15 AM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:15 AM - 01:45 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:15 AM - 12:45 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:00 PM - 03:00 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:30 AM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:00 PM - 03:00 PM"
+        },
+        {
+            "date": "Monday, August 24, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:15 AM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "12:15 PM - 01:45 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:00 PM - 03:00 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:30 AM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "Tuesday, August 25, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:45 AM - 01:15 PM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 09:30 AM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "02:00 PM - 03:00 PM"
+        },
+        {
+            "date": "Wednesday, August 26, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "08:30 PM - 09:30 PM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:15 AM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "12:15 PM - 01:45 PM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:00 PM - 03:00 PM"
+        },
+        {
+            "date": "Thursday, August 27, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Friday, August 28, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "Friday, August 28, 2026",
+            "pool_name": "Piccininni",
+            "lane_swim_time": "11:00 AM - 09:30 PM"
+        },
+        {
+            "date": "Friday, August 28, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Friday, August 28, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "11:15 AM - 12:45 PM"
+        },
+        {
+            "date": "Friday, August 28, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "Friday, August 28, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "07:00 AM - 08:30 AM"
+        },
+        {
+            "date": "Friday, August 28, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "Saturday, August 29, 2026",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "Saturday, August 29, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "date": "Saturday, August 29, 2026",
+            "pool_name": "Wallace Emerson",
+            "lane_swim_time": "01:15 PM - 02:15 PM"
+        },
+        {
+            "date": "Sunday, August 30, 2026",
+            "pool_name": "Vaughan Road Academy",
+            "lane_swim_time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "Sunday, August 30, 2026",
+            "pool_name": "North Toronto",
+            "lane_swim_time": "02:00 PM - 05:00 PM"
+        },
+        {
+            "date": "Sunday, August 30, 2026",
             "pool_name": "Wallace Emerson",
             "lane_swim_time": "01:15 PM - 02:15 PM"
         }
