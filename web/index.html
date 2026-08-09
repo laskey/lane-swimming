@@ -3,57 +3,259 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Lane Swimming Times</title>
+    <title>Swim Times</title>
     <style>
+        :root {
+            --bg: #fafafa;
+            --card-bg: #ffffff;
+            --text: #1a1a2e;
+            --muted: #6b7280;
+            --border: #e5e7eb;
+            --accent: #0369a1;
+            --lane-bg: #e0f2fe;
+            --lane-text: #075985;
+            --leisure-bg: #dcfce7;
+            --leisure-text: #166534;
+            --chip-bg: #ffffff;
+            --chip-active-bg: #0369a1;
+            --chip-active-text: #ffffff;
+            --header-bg: rgba(250, 250, 250, 0.95);
+        }
+        @media (prefers-color-scheme: dark) {
+            :root {
+                --bg: #111827;
+                --card-bg: #1f2937;
+                --text: #f3f4f6;
+                --muted: #9ca3af;
+                --border: #374151;
+                --accent: #38bdf8;
+                --lane-bg: #0c4a6e;
+                --lane-text: #bae6fd;
+                --leisure-bg: #14532d;
+                --leisure-text: #bbf7d0;
+                --chip-bg: #1f2937;
+                --chip-active-bg: #0284c7;
+                --chip-active-text: #ffffff;
+                --header-bg: rgba(17, 24, 39, 0.95);
+            }
+        }
+        * { box-sizing: border-box; }
         body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+            margin: 0;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.4;
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
+        .container {
+            max-width: 640px;
+            margin: 0 auto;
+            padding: 16px 16px 48px;
         }
-        th, td {
-            padding: 10px;
-            border: 1px solid #ddd;
-            text-align: left;
+        h1 {
+            font-size: 1.5rem;
+            margin: 8px 0 2px;
         }
-        th {
-            background-color: #f4f4f4;
+        #last-updated {
+            color: var(--muted);
+            font-size: 0.8rem;
+            margin: 0 0 16px;
+        }
+        .filters {
+            display: flex;
+            flex-direction: column;
+            gap: 8px;
+            margin-bottom: 8px;
+        }
+        .chip-row {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 6px;
+        }
+        .chip {
+            border: 1px solid var(--border);
+            background: var(--chip-bg);
+            color: var(--text);
+            border-radius: 999px;
+            padding: 5px 12px;
+            font-size: 0.85rem;
+            cursor: pointer;
+        }
+        .chip.active {
+            background: var(--chip-active-bg);
+            color: var(--chip-active-text);
+            border-color: var(--chip-active-bg);
+        }
+        .date-header {
+            position: sticky;
+            top: 0;
+            background: var(--header-bg);
+            backdrop-filter: blur(4px);
+            padding: 10px 0 6px;
+            margin: 12px 0 4px;
+            font-size: 1rem;
+            font-weight: 600;
+            border-bottom: 2px solid var(--border);
+            z-index: 1;
+        }
+        .date-header .day-label {
+            color: var(--accent);
+        }
+        .session {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: var(--card-bg);
+            border: 1px solid var(--border);
+            border-radius: 10px;
+            padding: 10px 12px;
+            margin: 6px 0;
+        }
+        .session .time {
+            font-variant-numeric: tabular-nums;
+            font-weight: 600;
+            white-space: nowrap;
+            min-width: 8.5em;
+        }
+        .session .pool {
+            flex: 1;
+        }
+        .badge {
+            font-size: 0.72rem;
+            font-weight: 600;
+            padding: 3px 8px;
+            border-radius: 999px;
+            white-space: nowrap;
+        }
+        .badge.lane { background: var(--lane-bg); color: var(--lane-text); }
+        .badge.leisure { background: var(--leisure-bg); color: var(--leisure-text); }
+        .empty {
+            color: var(--muted);
+            text-align: center;
+            padding: 32px 0;
+        }
+        @media (max-width: 480px) {
+            .session { flex-wrap: wrap; }
+            .session .time { min-width: 0; }
+            .session .pool { flex-basis: 100%; order: 3; }
         }
     </style>
 </head>
 <body>
-    <h1>Lane Swimming Times</h1>
-    <p id="last-updated"></p>
-    <table>
-        <thead>
-            <tr>
-                <th>Date</th>
-                <th>Pool Name</th>
-                <th>Lane Swim Time</th>
-            </tr>
-        </thead>
-        <tbody id="swim-times">
-            <!-- Data will be inserted here by JavaScript -->
-        </tbody>
-    </table>
+    <div class="container">
+        <h1>Swim Times</h1>
+        <p id="last-updated"></p>
+        <div class="filters">
+            <div class="chip-row" id="type-filters"></div>
+            <div class="chip-row" id="pool-filters"></div>
+        </div>
+        <div id="schedule"></div>
+    </div>
     <script>
+        const state = { type: 'All', pool: 'All' };
+        let sessions = [];
+
+        function parseLocalDate(iso) {
+            const [y, m, d] = iso.split('-').map(Number);
+            return new Date(y, m - 1, d);
+        }
+
+        function dayLabel(date) {
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const diffDays = Math.round((date - today) / 86400000);
+            if (diffDays === 0) return 'Today';
+            if (diffDays === 1) return 'Tomorrow';
+            return null;
+        }
+
+        function formatDate(date) {
+            return date.toLocaleDateString('en-CA', {
+                weekday: 'long', month: 'long', day: 'numeric'
+            });
+        }
+
+        // "07:00 AM - 09:15 AM" -> "7:00 – 9:15 AM"
+        function formatTime(range) {
+            const parts = range.split(' - ');
+            if (parts.length !== 2) return range;
+            let [start, end] = parts.map(p => p.trim().replace(/^0/, ''));
+            const startPeriod = start.slice(-2);
+            const endPeriod = end.slice(-2);
+            if (startPeriod === endPeriod) start = start.slice(0, -3);
+            return `${start} – ${end}`;
+        }
+
+        function makeChips(containerId, values, key) {
+            const container = document.getElementById(containerId);
+            container.innerHTML = '';
+            ['All', ...values].forEach(value => {
+                const chip = document.createElement('button');
+                chip.className = 'chip' + (state[key] === value ? ' active' : '');
+                chip.textContent = value;
+                chip.addEventListener('click', () => {
+                    state[key] = value;
+                    makeChips(containerId, values, key);
+                    render();
+                });
+                container.appendChild(chip);
+            });
+        }
+
+        function render() {
+            const scheduleEl = document.getElementById('schedule');
+            scheduleEl.innerHTML = '';
+            const today = new Date();
+            today.setHours(0, 0, 0, 0);
+            const visible = sessions.filter(s =>
+                parseLocalDate(s.date) >= today &&
+                (state.type === 'All' || s.swim_type === state.type) &&
+                (state.pool === 'All' || s.pool_name === state.pool)
+            );
+            if (visible.length === 0) {
+                const empty = document.createElement('p');
+                empty.className = 'empty';
+                empty.textContent = 'No swim times match these filters.';
+                scheduleEl.appendChild(empty);
+                return;
+            }
+            let currentDate = null;
+            visible.forEach(s => {
+                if (s.date !== currentDate) {
+                    currentDate = s.date;
+                    const date = parseLocalDate(s.date);
+                    const header = document.createElement('div');
+                    header.className = 'date-header';
+                    const label = dayLabel(date);
+                    header.innerHTML = label
+                        ? `<span class="day-label">${label}</span> · ${formatDate(date)}`
+                        : formatDate(date);
+                    scheduleEl.appendChild(header);
+                }
+                const row = document.createElement('div');
+                row.className = 'session';
+                const badgeClass = s.swim_type === 'Leisure Swim' ? 'leisure' : 'lane';
+                const badgeText = s.swim_type.replace(' Swim', '');
+                row.innerHTML = `
+                    <span class="time">${formatTime(s.time)}</span>
+                    <span class="badge ${badgeClass}">${badgeText}</span>
+                    <span class="pool">${s.pool_name}</span>
+                `;
+                scheduleEl.appendChild(row);
+            });
+        }
+
         fetch('lane_swim_times.json')
             .then(response => response.json())
             .then(data => {
-                const lastUpdated = document.getElementById('last-updated');
-                lastUpdated.textContent = `Last updated: ${data.last_updated}`;
-                const tbody = document.getElementById('swim-times');
-                data.lane_swim_times.forEach(item => {
-                    const row = document.createElement('tr');
-                    row.innerHTML = `
-                        <td>${item.date}</td>
-                        <td>${item.pool_name}</td>
-                        <td>${item.lane_swim_time}</td>
-                    `;
-                    tbody.appendChild(row);
-                });
+                document.getElementById('last-updated').textContent =
+                    `Last updated: ${data.last_updated}`;
+                sessions = data.swim_times;
+                const types = [...new Set(sessions.map(s => s.swim_type))].sort();
+                const pools = [...new Set(sessions.map(s => s.pool_name))].sort();
+                makeChips('type-filters', types, 'type');
+                makeChips('pool-filters', pools, 'pool');
+                render();
             })
             .catch(error => console.error('Error fetching swim times:', error));
     </script>

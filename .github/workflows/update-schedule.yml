@@ -1,4 +1,4 @@
-name: Update lane swim times
+name: Update swim times
 
 on:
   schedule:
@@ -33,6 +33,6 @@ jobs:
             echo "No schedule changes."
           else
             git add web/lane_swim_times.json
-            git commit -m "Update lane swim times"
+            git commit -m "Update swim times"
             git push
           fi

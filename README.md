@@ -1,12 +1,14 @@
 # lane-swimming
 
-Upcoming lane-swim times for a handful of Toronto pools, on one static page.
+Upcoming lane and leisure swim times for a handful of Toronto pools, on one
+static page.
 
 ## How it works
 
 - `scripts/pool_schedule.py` pulls the city's open schedule JSON
   (`toronto.ca/data/parks/live/...`) for the pools listed at the top of the
-  script and writes `web/lane_swim_times.json`.
+  script and writes `web/lane_swim_times.json` (the swim session types to
+  include are in the `swim_types` list at the top of the script).
 - A GitHub Action (`.github/workflows/update-schedule.yml`) runs it daily at
   11:00 Toronto time and commits the refreshed JSON when it changes.
 - Cloudflare Pages serves the `web/` directory at `swim.mikelaskey.ca`,
