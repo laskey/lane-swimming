@@ -13,6 +13,9 @@ pools = [
     {'name': 'Wallace Emerson', 'number': 294}
 ]
 
+# Drop-in session types to include
+swim_types = ['Lane Swim', 'Leisure Swim']
+
 # Function to get the schedule for a pool
 def get_pool_schedule(pool_number, week_number):
     url = f'https://www.toronto.ca/data/parks/live/locations/{pool_number}/swim/week{week_number}.json'
@@ -28,15 +31,15 @@ def get_pool_schedule(pool_number, week_number):
         print(f'Error fetching data for pool {pool_number}, week {week_number}: {response.status_code}')
         return None
 
-# Function to extract lane swim times
-def extract_lane_swim_times(schedule, pool_name, week_start_date):
-    lane_swim_times = []
+# Function to extract swim times
+def extract_swim_times(schedule, pool_name, week_start_date):
+    swim_times = []
     today = datetime.today()
     if schedule:
         for program in schedule.get('programs', []):
             if program['program'] == 'Swim - Drop-In':
                 for day in program['days']:
-                    if day['title'] == 'Lane Swim':
+                    if day['title'] in swim_types:
                         for time in day['times']:
                             # Calculate the full date
                             day_name = time['day'].lower()
@@ -44,29 +47,36 @@ def extract_lane_swim_times(schedule, pool_name, week_start_date):
                             day_offset = (day_index - week_start_date.weekday()) % 7
                             full_date = week_start_date + timedelta(days=day_offset)
                             if full_date >= today - timedelta(days=1):
-                                lane_swim_times.append({
-                                    'date': full_date.strftime('%A, %B %d, %Y'),
+                                swim_times.append({
+                                    'date': full_date.strftime('%Y-%m-%d'),
                                     'pool_name': pool_name,
-                                    'lane_swim_time': time['title']
+                                    'swim_type': day['title'],
+                                    'time': time['title']
                                 })
-    return lane_swim_times
+    return swim_times
 
-# Main function to get schedules and output table
+# Sort key for a session's start time, e.g. "07:00 AM - 09:15 AM"
+def start_time_key(entry):
+    try:
+        return datetime.strptime(entry['time'].split('-')[0].strip(), '%I:%M %p').time()
+    except ValueError:
+        return datetime.min.time()
+
+# Main function to get schedules and output JSON
 def main():
-    all_lane_swim_times = []
+    all_swim_times = []
     today = datetime.today()
     week_start_date = today - timedelta(days=today.weekday())
     for pool in pools:
         for week in range(1, 5):
             schedule = get_pool_schedule(pool['number'], week)
-            lane_swim_times = extract_lane_swim_times(schedule, pool['name'], week_start_date + timedelta(weeks=week-1))
-            all_lane_swim_times.extend(lane_swim_times)
-    # Sort the lane swim times by date
-    all_lane_swim_times.sort(key=lambda x: datetime.strptime(x['date'], '%A, %B %d, %Y'))
+            swim_times = extract_swim_times(schedule, pool['name'], week_start_date + timedelta(weeks=week-1))
+            all_swim_times.extend(swim_times)
+    all_swim_times.sort(key=lambda x: (x['date'], start_time_key(x), x['pool_name']))
     # Add last updated timestamp
     output_data = {
         'last_updated': today.strftime('%Y-%m-%d %H:%M:%S'),
-        'lane_swim_times': all_lane_swim_times
+        'swim_times': all_swim_times
     }
     # Save the JSON file in the web directory
     web_dir = os.path.join(os.path.dirname(__file__), '..', 'web')
