@@ -14,15 +14,23 @@ pools = [
 ]
 
 # Drop-in session types to include; titles are matched by prefix so
-# variants like "Leisure Swim: Older Adult" are included too
+# variants like "Leisure Swim: Preschool" are considered too
 swim_types = ['Lane Swim', 'Leisure Swim']
 
+# Title variants (suffixes) to keep, besides plain sessions with no suffix.
+# Anything not listed here is a restricted group (Adult, Older Adult,
+# Women, ...) that we don't want on the page.
+included_variants = ['Outdoor Pool', 'Preschool']
+
 # Match a session title against swim_types; returns (base type, variant)
-# e.g. "Leisure Swim: Older Adult" -> ('Leisure Swim', 'Older Adult')
+# e.g. "Leisure Swim: Preschool" -> ('Leisure Swim', 'Preschool').
+# Returns (None, None) for other programs and for excluded variants.
 def match_swim_type(title):
     for base in swim_types:
         if title.startswith(base):
-            return base, title[len(base):].strip(' :-')
+            variant = title[len(base):].strip(' :-')
+            if not variant or variant in included_variants:
+                return base, variant
     return None, None
 
 # Function to get the schedule for a pool

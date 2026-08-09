@@ -67,21 +67,7 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "09:00 AM - 10:00 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-10",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:00 AM - 10:00 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-10",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-10",
@@ -208,31 +194,10 @@
         },
         {
             "date": "2026-08-11",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:15 AM - 09:15 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-11",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-11",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-11",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-11",
@@ -341,31 +306,10 @@
         },
         {
             "date": "2026-08-12",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:45 AM - 11:00 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-12",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:00 AM - 10:00 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-12",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "09:00 AM - 10:00 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-12",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-12",
@@ -480,31 +424,10 @@
         },
         {
             "date": "2026-08-13",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:15 AM - 09:15 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-13",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-13",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-13",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-13",
@@ -610,13 +533,6 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-14",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
         },
         {
@@ -696,13 +612,6 @@
         },
         {
             "date": "2026-08-15",
-            "pool_name": "Piccininni",
-            "swim_type": "Leisure Swim",
-            "time": "02:00 PM - 04:30 PM",
-            "variant": "(Women)"
-        },
-        {
-            "date": "2026-08-15",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "02:30 PM - 03:45 PM"
@@ -779,21 +688,7 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "09:00 AM - 10:00 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-17",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:00 AM - 10:00 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-17",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-17",
@@ -920,31 +815,10 @@
         },
         {
             "date": "2026-08-18",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:15 AM - 09:15 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-18",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-18",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-18",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-18",
@@ -1053,31 +927,10 @@
         },
         {
             "date": "2026-08-19",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:45 AM - 11:00 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-19",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:00 AM - 10:00 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-19",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "09:00 AM - 10:00 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-19",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-19",
@@ -1192,31 +1045,10 @@
         },
         {
             "date": "2026-08-20",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:15 AM - 09:15 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-20",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-20",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-20",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-20",
@@ -1322,13 +1154,6 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-21",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
         },
         {
@@ -1408,13 +1233,6 @@
         },
         {
             "date": "2026-08-22",
-            "pool_name": "Piccininni",
-            "swim_type": "Leisure Swim",
-            "time": "02:00 PM - 04:30 PM",
-            "variant": "(Women)"
-        },
-        {
-            "date": "2026-08-22",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "02:30 PM - 03:45 PM"
@@ -1491,21 +1309,7 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "09:00 AM - 10:00 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-24",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:00 AM - 10:00 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-24",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-24",
@@ -1608,31 +1412,10 @@
         },
         {
             "date": "2026-08-25",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:15 AM - 09:15 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-25",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-25",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-25",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-25",
@@ -1729,31 +1512,10 @@
         },
         {
             "date": "2026-08-26",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:45 AM - 11:00 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-26",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:00 AM - 10:00 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-26",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "09:00 AM - 10:00 AM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-08-26",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "09:30 AM - 10:30 AM",
-            "variant": "Adult"
         },
         {
             "date": "2026-08-26",
@@ -1838,20 +1600,6 @@
         },
         {
             "date": "2026-08-27",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:15 AM - 09:15 AM",
-            "variant": "Older Adult"
-        },
-        {
-            "date": "2026-08-27",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-27",
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
@@ -1930,13 +1678,6 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:30 AM - 09:30 AM",
-            "variant": "Adult"
-        },
-        {
-            "date": "2026-08-28",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "08:30 AM - 09:30 AM",
             "variant": "Preschool"
         },
         {
@@ -2007,13 +1748,6 @@
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "02:00 PM - 05:00 PM"
-        },
-        {
-            "date": "2026-08-29",
-            "pool_name": "Piccininni",
-            "swim_type": "Leisure Swim",
-            "time": "02:00 PM - 04:30 PM",
-            "variant": "(Women)"
         },
         {
             "date": "2026-08-29",
