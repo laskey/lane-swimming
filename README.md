@@ -8,7 +8,10 @@ static page.
 - `scripts/pool_schedule.py` pulls the city's open schedule JSON
   (`toronto.ca/data/parks/live/...`) for the pools listed at the top of the
   script and writes `web/lane_swim_times.json` (the swim session types to
-  include are in the `swim_types` list at the top of the script).
+  include are in the `swim_types` list at the top of the script; titles are
+  matched by prefix, and title variants like "Leisure Swim: Preschool" are
+  kept only if they're in the `included_variants` list — restricted groups
+  like Adult or Older Adult are left out).
 - A GitHub Action (`.github/workflows/update-schedule.yml`) runs it daily at
   11:00 Toronto time and commits the refreshed JSON when it changes.
 - Cloudflare Pages serves the `web/` directory at `swim.mikelaskey.ca`,

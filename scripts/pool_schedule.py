@@ -13,8 +13,25 @@ pools = [
     {'name': 'Wallace Emerson', 'number': 294}
 ]
 
-# Drop-in session types to include
+# Drop-in session types to include; titles are matched by prefix so
+# variants like "Leisure Swim: Preschool" are considered too
 swim_types = ['Lane Swim', 'Leisure Swim']
+
+# Title variants (suffixes) to keep, besides plain sessions with no suffix.
+# Anything not listed here is a restricted group (Adult, Older Adult,
+# Women, ...) that we don't want on the page.
+included_variants = ['Outdoor Pool', 'Preschool']
+
+# Match a session title against swim_types; returns (base type, variant)
+# e.g. "Leisure Swim: Preschool" -> ('Leisure Swim', 'Preschool').
+# Returns (None, None) for other programs and for excluded variants.
+def match_swim_type(title):
+    for base in swim_types:
+        if title.startswith(base):
+            variant = title[len(base):].strip(' :-')
+            if not variant or variant in included_variants:
+                return base, variant
+    return None, None
 
 # Function to get the schedule for a pool
 def get_pool_schedule(pool_number, week_number):
@@ -39,7 +56,8 @@ def extract_swim_times(schedule, pool_name, week_start_date):
         for program in schedule.get('programs', []):
             if program['program'] == 'Swim - Drop-In':
                 for day in program['days']:
-                    if day['title'] in swim_types:
+                    swim_type, variant = match_swim_type(day['title'])
+                    if swim_type:
                         for time in day['times']:
                             # Calculate the full date
                             day_name = time['day'].lower()
@@ -47,12 +65,15 @@ def extract_swim_times(schedule, pool_name, week_start_date):
                             day_offset = (day_index - week_start_date.weekday()) % 7
                             full_date = week_start_date + timedelta(days=day_offset)
                             if full_date >= today - timedelta(days=1):
-                                swim_times.append({
+                                entry = {
                                     'date': full_date.strftime('%Y-%m-%d'),
                                     'pool_name': pool_name,
-                                    'swim_type': day['title'],
+                                    'swim_type': swim_type,
                                     'time': time['title']
-                                })
+                                }
+                                if variant:
+                                    entry['variant'] = variant
+                                swim_times.append(entry)
     return swim_times
 
 # Sort key for a session's start time, e.g. "07:00 AM - 09:15 AM"

@@ -1,8 +1,15 @@
 {
-    "last_updated": "2026-08-09 09:36:43",
+    "last_updated": "2026-08-09 09:40:55",
     "swim_times": [
         {
             "date": "2026-08-09",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
+        },
+        {
+            "date": "2026-08-09",
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Leisure Swim",
             "time": "01:00 PM - 02:30 PM"
@@ -57,6 +64,27 @@
         },
         {
             "date": "2026-08-10",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:00 AM - 10:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-10",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-10",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
+        },
+        {
+            "date": "2026-08-10",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 12:45 PM"
@@ -66,6 +94,13 @@
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-10",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
         },
         {
             "date": "2026-08-10",
@@ -159,9 +194,37 @@
         },
         {
             "date": "2026-08-11",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-11",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-11",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-11",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-11",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-11",
@@ -243,15 +306,43 @@
         },
         {
             "date": "2026-08-12",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:00 AM - 10:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-12",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-12",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-08-12",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-12",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:45 AM - 01:15 PM"
+        },
+        {
+            "date": "2026-08-12",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-12",
@@ -333,9 +424,37 @@
         },
         {
             "date": "2026-08-13",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-13",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-13",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-13",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-13",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-13",
@@ -411,6 +530,13 @@
         },
         {
             "date": "2026-08-14",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-14",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 09:30 PM"
@@ -420,6 +546,20 @@
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 12:45 PM"
+        },
+        {
+            "date": "2026-08-14",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 03:45 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-14",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-14",
@@ -444,6 +584,13 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-08-15",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-15",
@@ -474,6 +621,13 @@
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Lane Swim",
             "time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "2026-08-16",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-16",
@@ -531,6 +685,27 @@
         },
         {
             "date": "2026-08-17",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:00 AM - 10:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-17",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-17",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
+        },
+        {
+            "date": "2026-08-17",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 12:45 PM"
@@ -540,6 +715,13 @@
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-17",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
         },
         {
             "date": "2026-08-17",
@@ -633,9 +815,37 @@
         },
         {
             "date": "2026-08-18",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-18",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-18",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-18",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-18",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-18",
@@ -717,15 +927,43 @@
         },
         {
             "date": "2026-08-19",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:00 AM - 10:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-19",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-19",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-08-19",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-19",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:45 AM - 01:15 PM"
+        },
+        {
+            "date": "2026-08-19",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-19",
@@ -807,9 +1045,37 @@
         },
         {
             "date": "2026-08-20",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-20",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-20",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-20",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-20",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-20",
@@ -885,6 +1151,13 @@
         },
         {
             "date": "2026-08-21",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-21",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 09:30 PM"
@@ -894,6 +1167,20 @@
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 12:45 PM"
+        },
+        {
+            "date": "2026-08-21",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 03:45 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-21",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-21",
@@ -918,6 +1205,13 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-08-22",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-22",
@@ -948,6 +1242,13 @@
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Lane Swim",
             "time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "2026-08-23",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-23",
@@ -1005,6 +1306,27 @@
         },
         {
             "date": "2026-08-24",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:00 AM - 10:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-24",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-24",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
+        },
+        {
+            "date": "2026-08-24",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 12:45 PM"
@@ -1014,6 +1336,13 @@
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-24",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
         },
         {
             "date": "2026-08-24",
@@ -1083,9 +1412,37 @@
         },
         {
             "date": "2026-08-25",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-25",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-25",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-25",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-25",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-25",
@@ -1155,15 +1512,43 @@
         },
         {
             "date": "2026-08-26",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:00 AM - 10:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-26",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 10:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-26",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-08-26",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-26",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:45 AM - 01:15 PM"
+        },
+        {
+            "date": "2026-08-26",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-26",
@@ -1215,9 +1600,30 @@
         },
         {
             "date": "2026-08-27",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-27",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 01:45 PM"
+        },
+        {
+            "date": "2026-08-27",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 01:00 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-27",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-27",
@@ -1269,6 +1675,13 @@
         },
         {
             "date": "2026-08-28",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:30 AM - 09:30 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-28",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:00 AM - 09:30 PM"
@@ -1278,6 +1691,20 @@
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 12:45 PM"
+        },
+        {
+            "date": "2026-08-28",
+            "pool_name": "Piccininni",
+            "swim_type": "Leisure Swim",
+            "time": "11:30 AM - 03:45 PM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-08-28",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "12:00 PM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-28",
@@ -1296,6 +1723,13 @@
             "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-08-29",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-29",
@@ -1326,6 +1760,13 @@
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Lane Swim",
             "time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "2026-08-30",
+            "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "10:00 AM - 08:00 PM",
+            "variant": "Outdoor Pool"
         },
         {
             "date": "2026-08-30",
