@@ -129,6 +129,11 @@
         }
         .badge.lane { background: var(--lane-bg); color: var(--lane-text); }
         .badge.leisure { background: var(--leisure-bg); color: var(--leisure-text); }
+        .variant {
+            color: var(--muted);
+            font-size: 0.78rem;
+            white-space: nowrap;
+        }
         .empty {
             color: var(--muted);
             text-align: center;
@@ -236,9 +241,10 @@
                 row.className = 'session';
                 const badgeClass = s.swim_type === 'Leisure Swim' ? 'leisure' : 'lane';
                 const badgeText = s.swim_type.replace(' Swim', '');
+                const variant = s.variant ? `<span class="variant">${s.variant}</span>` : '';
                 row.innerHTML = `
                     <span class="time">${formatTime(s.time)}</span>
-                    <span class="badge ${badgeClass}">${badgeText}</span>
+                    <span class="badge ${badgeClass}">${badgeText}</span>${variant}
                     <span class="pool">${s.pool_name}</span>
                 `;
                 scheduleEl.appendChild(row);
