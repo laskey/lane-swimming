@@ -1,25 +1,6 @@
 {
-    "last_updated": "2026-09-05 13:03:48",
+    "last_updated": "2026-09-06 13:27:15",
     "swim_times": [
-        {
-            "date": "2026-09-05",
-            "pool_name": "North Toronto",
-            "swim_type": "Leisure Swim",
-            "time": "10:00 AM - 08:00 PM",
-            "variant": "Outdoor Pool"
-        },
-        {
-            "date": "2026-09-05",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "02:00 PM - 05:00 PM"
-        },
-        {
-            "date": "2026-09-05",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "02:30 PM - 03:45 PM"
-        },
         {
             "date": "2026-09-06",
             "pool_name": "North Toronto",
