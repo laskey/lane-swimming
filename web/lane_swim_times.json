@@ -1,42 +1,11 @@
 {
-    "last_updated": "2026-09-06 13:27:15",
+    "last_updated": "2026-09-07 14:57:10",
     "swim_times": [
-        {
-            "date": "2026-09-06",
-            "pool_name": "North Toronto",
-            "swim_type": "Leisure Swim",
-            "time": "10:00 AM - 04:00 PM",
-            "variant": "Outdoor Pool"
-        },
-        {
-            "date": "2026-09-06",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "02:00 PM - 05:00 PM"
-        },
-        {
-            "date": "2026-09-06",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "02:30 PM - 03:45 PM"
-        },
         {
             "date": "2026-09-08",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-09-08",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-08",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-08",
@@ -58,28 +27,10 @@
             "time": "08:00 PM - 09:30 PM"
         },
         {
-            "date": "2026-09-08",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-09",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-09-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-09",
@@ -101,28 +52,10 @@
             "time": "08:00 PM - 09:30 PM"
         },
         {
-            "date": "2026-09-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-10",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-09-10",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-10",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-10",
@@ -144,28 +77,10 @@
             "time": "08:00 PM - 09:30 PM"
         },
         {
-            "date": "2026-09-10",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-11",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-09-11",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-11",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 09:30 PM"
         },
         {
             "date": "2026-09-11",
@@ -193,22 +108,28 @@
             "time": "02:00 PM - 05:00 PM"
         },
         {
+            "date": "2026-09-12",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "02:30 PM - 03:45 PM"
+        },
+        {
             "date": "2026-09-13",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "02:00 PM - 05:00 PM"
         },
         {
+            "date": "2026-09-13",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "02:30 PM - 03:45 PM"
+        },
+        {
             "date": "2026-09-14",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-09-14",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 09:15 AM"
         },
         {
             "date": "2026-09-14",
@@ -219,39 +140,15 @@
         {
             "date": "2026-09-14",
             "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:15 AM - 01:45 PM"
-        },
-        {
-            "date": "2026-09-14",
-            "pool_name": "Piccininni",
             "swim_type": "Leisure Swim",
             "time": "11:30 AM - 01:00 PM",
             "variant": "Preschool"
-        },
-        {
-            "date": "2026-09-14",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
         },
         {
             "date": "2026-09-15",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-09-15",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-15",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-15",
@@ -273,28 +170,10 @@
             "time": "08:00 PM - 09:30 PM"
         },
         {
-            "date": "2026-09-15",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-16",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-09-16",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-16",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-16",
@@ -310,28 +189,10 @@
             "time": "11:45 AM - 01:15 PM"
         },
         {
-            "date": "2026-09-16",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-17",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-09-17",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-17",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-17",
@@ -353,28 +214,10 @@
             "time": "08:00 PM - 09:30 PM"
         },
         {
-            "date": "2026-09-17",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-18",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-09-18",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-18",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 09:30 PM"
         },
         {
             "date": "2026-09-18",
@@ -415,21 +258,9 @@
         },
         {
             "date": "2026-09-21",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 09:15 AM"
-        },
-        {
-            "date": "2026-09-21",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 01:15 PM"
-        },
-        {
-            "date": "2026-09-21",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:15 AM - 01:45 PM"
         },
         {
             "date": "2026-09-21",
@@ -439,28 +270,10 @@
             "variant": "Preschool"
         },
         {
-            "date": "2026-09-21",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-22",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-09-22",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-22",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-22",
@@ -482,28 +295,10 @@
             "time": "08:00 PM - 09:30 PM"
         },
         {
-            "date": "2026-09-22",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-23",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-09-23",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-23",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-23",
@@ -519,28 +314,10 @@
             "time": "11:45 AM - 01:15 PM"
         },
         {
-            "date": "2026-09-23",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-24",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-09-24",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-24",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 01:45 PM"
         },
         {
             "date": "2026-09-24",
@@ -562,28 +339,10 @@
             "time": "08:00 PM - 09:30 PM"
         },
         {
-            "date": "2026-09-24",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:30 PM - 09:30 PM"
-        },
-        {
             "date": "2026-09-25",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-09-25",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:45 AM"
-        },
-        {
-            "date": "2026-09-25",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "11:00 AM - 09:30 PM"
         },
         {
             "date": "2026-09-25",
