@@ -1,24 +1,6 @@
 {
-    "last_updated": "2026-09-15 14:39:57",
+    "last_updated": "2026-09-16 14:36:27",
     "swim_times": [
-        {
-            "date": "2026-09-15",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-09-15",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "12:00 PM - 02:30 PM"
-        },
-        {
-            "date": "2026-09-15",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:00 PM - 09:30 PM"
-        },
         {
             "date": "2026-09-16",
             "pool_name": "North Toronto",
