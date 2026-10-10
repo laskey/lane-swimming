@@ -1,74 +1,7 @@
 {
-    "last_updated": "2026-10-09 15:57:47",
+    "last_updated": "2026-10-10 15:05:32",
     "swim_times": [
         {
-            "date": "2026-10-09",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:30 AM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "07:00 AM - 08:15 AM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "09:45 AM - 11:15 AM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "11:15 AM - 02:00 PM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "12:15 PM - 03:15 PM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Leisure Swim",
-            "time": "12:45 PM - 01:45 PM",
-            "variant": "Preschool"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Leisure Swim",
-            "time": "06:00 PM - 08:00 PM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "North Toronto",
-            "swim_type": "Leisure Swim",
-            "time": "06:30 PM - 07:45 PM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "Hillcrest Community Centre",
-            "swim_type": "Leisure Swim",
-            "time": "07:15 PM - 08:45 PM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "08:00 PM - 09:30 PM"
-        },
-        {
-            "date": "2026-10-09",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "08:15 PM - 09:30 PM"
-        },
-        {
             "date": "2026-10-10",
             "pool_name": "Hillcrest Community Centre",
             "swim_type": "Leisure Swim",
@@ -88,6 +21,12 @@
         },
         {
             "date": "2026-10-10",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-10-10",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -103,6 +42,12 @@
             "pool_name": "Hillcrest Community Centre",
             "swim_type": "Lane Swim",
             "time": "03:00 PM - 04:30 PM"
+        },
+        {
+            "date": "2026-10-10",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-10-10",
@@ -136,6 +81,12 @@
         },
         {
             "date": "2026-10-11",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-10-11",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -145,6 +96,12 @@
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Lane Swim",
             "time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "2026-10-11",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-10-11",
@@ -178,6 +135,19 @@
         },
         {
             "date": "2026-10-13",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "2026-10-13",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:45 AM - 09:45 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-13",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "09:45 AM - 11:15 AM"
@@ -200,6 +170,12 @@
             "swim_type": "Leisure Swim",
             "time": "12:45 PM - 01:45 PM",
             "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-13",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:30 PM - 03:15 PM"
         },
         {
             "date": "2026-10-13",
@@ -227,6 +203,12 @@
         },
         {
             "date": "2026-10-13",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-13",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "08:30 PM - 09:30 PM"
@@ -245,7 +227,20 @@
         },
         {
             "date": "2026-10-14",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "2026-10-14",
             "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "08:45 AM - 09:45 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-14",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:45 AM - 09:45 AM",
             "variant": "Preschool"
@@ -277,7 +272,19 @@
         },
         {
             "date": "2026-10-14",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-14",
             "pool_name": "Hillcrest Community Centre",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-14",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
         },
@@ -301,6 +308,19 @@
         },
         {
             "date": "2026-10-15",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 09:30 AM"
+        },
+        {
+            "date": "2026-10-15",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 11:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-15",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 03:15 PM"
@@ -317,6 +337,12 @@
             "swim_type": "Leisure Swim",
             "time": "12:45 PM - 01:45 PM",
             "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-15",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
         },
         {
             "date": "2026-10-15",
@@ -338,6 +364,12 @@
         },
         {
             "date": "2026-10-15",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-15",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "08:30 PM - 09:30 PM"
@@ -353,6 +385,12 @@
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "07:00 AM - 08:15 AM"
+        },
+        {
+            "date": "2026-10-16",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 09:00 AM"
         },
         {
             "date": "2026-10-16",
@@ -381,6 +419,18 @@
         },
         {
             "date": "2026-10-16",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-16",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "05:15 PM - 06:30 PM"
+        },
+        {
+            "date": "2026-10-16",
             "pool_name": "Piccininni",
             "swim_type": "Leisure Swim",
             "time": "06:00 PM - 08:00 PM"
@@ -402,6 +452,12 @@
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:30 PM"
+        },
+        {
+            "date": "2026-10-16",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
         },
         {
             "date": "2026-10-16",
@@ -429,6 +485,12 @@
         },
         {
             "date": "2026-10-17",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-10-17",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -444,6 +506,12 @@
             "pool_name": "Hillcrest Community Centre",
             "swim_type": "Lane Swim",
             "time": "03:00 PM - 04:30 PM"
+        },
+        {
+            "date": "2026-10-17",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-10-17",
@@ -477,6 +545,12 @@
         },
         {
             "date": "2026-10-18",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-10-18",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -486,6 +560,12 @@
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Lane Swim",
             "time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "2026-10-18",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-10-18",
@@ -519,6 +599,19 @@
         },
         {
             "date": "2026-10-19",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 AM - 09:30 AM"
+        },
+        {
+            "date": "2026-10-19",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 11:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-19",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 02:00 PM"
@@ -538,7 +631,19 @@
         },
         {
             "date": "2026-10-19",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-19",
             "pool_name": "Hillcrest Community Centre",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-19",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
         },
@@ -562,6 +667,19 @@
         },
         {
             "date": "2026-10-20",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "2026-10-20",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:45 AM - 09:45 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-20",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "12:00 PM - 02:30 PM"
@@ -578,6 +696,12 @@
             "swim_type": "Leisure Swim",
             "time": "12:45 PM - 01:45 PM",
             "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-20",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:30 PM - 03:15 PM"
         },
         {
             "date": "2026-10-20",
@@ -605,6 +729,12 @@
         },
         {
             "date": "2026-10-20",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-20",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "08:30 PM - 09:30 PM"
@@ -623,7 +753,20 @@
         },
         {
             "date": "2026-10-21",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "2026-10-21",
             "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "08:45 AM - 09:45 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-21",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:45 AM - 09:45 AM",
             "variant": "Preschool"
@@ -649,7 +792,19 @@
         },
         {
             "date": "2026-10-21",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-21",
             "pool_name": "Hillcrest Community Centre",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-21",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
         },
@@ -673,6 +828,19 @@
         },
         {
             "date": "2026-10-22",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 09:30 AM"
+        },
+        {
+            "date": "2026-10-22",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 11:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-22",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 03:15 PM"
@@ -692,6 +860,12 @@
         },
         {
             "date": "2026-10-22",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-22",
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Leisure Swim",
             "time": "04:30 PM - 05:30 PM"
@@ -705,6 +879,12 @@
         {
             "date": "2026-10-22",
             "pool_name": "Vaughan Road Academy",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-22",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
         },
@@ -728,6 +908,12 @@
         },
         {
             "date": "2026-10-23",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "2026-10-23",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 02:00 PM"
@@ -744,6 +930,18 @@
             "swim_type": "Leisure Swim",
             "time": "12:45 PM - 01:45 PM",
             "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-23",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-23",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "05:15 PM - 06:30 PM"
         },
         {
             "date": "2026-10-23",
@@ -771,6 +969,12 @@
         },
         {
             "date": "2026-10-23",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-23",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "08:15 PM - 09:30 PM"
@@ -795,6 +999,12 @@
         },
         {
             "date": "2026-10-24",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-10-24",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -810,6 +1020,12 @@
             "pool_name": "Hillcrest Community Centre",
             "swim_type": "Lane Swim",
             "time": "03:00 PM - 04:30 PM"
+        },
+        {
+            "date": "2026-10-24",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-10-24",
@@ -843,6 +1059,12 @@
         },
         {
             "date": "2026-10-25",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-10-25",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -852,6 +1074,12 @@
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Lane Swim",
             "time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "2026-10-25",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-10-25",
@@ -885,6 +1113,19 @@
         },
         {
             "date": "2026-10-26",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 AM - 09:30 AM"
+        },
+        {
+            "date": "2026-10-26",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 11:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-26",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 02:00 PM"
@@ -904,7 +1145,19 @@
         },
         {
             "date": "2026-10-26",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-26",
             "pool_name": "Hillcrest Community Centre",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-26",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
         },
@@ -928,6 +1181,19 @@
         },
         {
             "date": "2026-10-27",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "2026-10-27",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "08:45 AM - 09:45 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-27",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "12:00 PM - 02:30 PM"
@@ -944,6 +1210,12 @@
             "swim_type": "Leisure Swim",
             "time": "12:45 PM - 01:45 PM",
             "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-27",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:30 PM - 03:15 PM"
         },
         {
             "date": "2026-10-27",
@@ -971,6 +1243,12 @@
         },
         {
             "date": "2026-10-27",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-27",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "08:30 PM - 09:30 PM"
@@ -989,7 +1267,20 @@
         },
         {
             "date": "2026-10-28",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 08:45 AM"
+        },
+        {
+            "date": "2026-10-28",
             "pool_name": "North Toronto",
+            "swim_type": "Leisure Swim",
+            "time": "08:45 AM - 09:45 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-28",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Leisure Swim",
             "time": "08:45 AM - 09:45 AM",
             "variant": "Preschool"
@@ -1015,7 +1306,19 @@
         },
         {
             "date": "2026-10-28",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:30 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-28",
             "pool_name": "Hillcrest Community Centre",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-28",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
         },
@@ -1039,6 +1342,19 @@
         },
         {
             "date": "2026-10-29",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 09:30 AM"
+        },
+        {
+            "date": "2026-10-29",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "09:30 AM - 11:00 AM",
+            "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-29",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 03:15 PM"
@@ -1058,6 +1374,12 @@
         },
         {
             "date": "2026-10-29",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-29",
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Leisure Swim",
             "time": "04:30 PM - 05:30 PM"
@@ -1071,6 +1393,12 @@
         {
             "date": "2026-10-29",
             "pool_name": "Vaughan Road Academy",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-29",
+            "pool_name": "Wallace Emerson",
             "swim_type": "Lane Swim",
             "time": "08:00 PM - 09:00 PM"
         },
@@ -1094,6 +1422,12 @@
         },
         {
             "date": "2026-10-30",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "07:00 AM - 09:00 AM"
+        },
+        {
+            "date": "2026-10-30",
             "pool_name": "North Toronto",
             "swim_type": "Lane Swim",
             "time": "11:15 AM - 02:00 PM"
@@ -1110,6 +1444,18 @@
             "swim_type": "Leisure Swim",
             "time": "12:45 PM - 01:45 PM",
             "variant": "Preschool"
+        },
+        {
+            "date": "2026-10-30",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "02:15 PM - 03:15 PM"
+        },
+        {
+            "date": "2026-10-30",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "05:15 PM - 06:30 PM"
         },
         {
             "date": "2026-10-30",
@@ -1137,6 +1483,12 @@
         },
         {
             "date": "2026-10-30",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "08:00 PM - 09:00 PM"
+        },
+        {
+            "date": "2026-10-30",
             "pool_name": "Piccininni",
             "swim_type": "Lane Swim",
             "time": "08:15 PM - 09:30 PM"
@@ -1161,6 +1513,12 @@
         },
         {
             "date": "2026-10-31",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-10-31",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -1176,6 +1534,12 @@
             "pool_name": "Hillcrest Community Centre",
             "swim_type": "Lane Swim",
             "time": "03:00 PM - 04:30 PM"
+        },
+        {
+            "date": "2026-10-31",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-10-31",
@@ -1209,6 +1573,12 @@
         },
         {
             "date": "2026-11-01",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Lane Swim",
+            "time": "01:45 PM - 02:45 PM"
+        },
+        {
+            "date": "2026-11-01",
             "pool_name": "North Toronto",
             "swim_type": "Leisure Swim",
             "time": "02:00 PM - 03:30 PM"
@@ -1218,6 +1588,12 @@
             "pool_name": "Vaughan Road Academy",
             "swim_type": "Lane Swim",
             "time": "02:45 PM - 03:45 PM"
+        },
+        {
+            "date": "2026-11-01",
+            "pool_name": "Wallace Emerson",
+            "swim_type": "Leisure Swim",
+            "time": "03:00 PM - 04:00 PM"
         },
         {
             "date": "2026-11-01",
