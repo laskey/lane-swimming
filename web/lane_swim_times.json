@@ -1,66 +1,6 @@
 {
-    "last_updated": "2026-10-24 13:45:42",
+    "last_updated": "2026-10-25 14:02:03",
     "swim_times": [
-        {
-            "date": "2026-10-24",
-            "pool_name": "Hillcrest Community Centre",
-            "swim_type": "Leisure Swim",
-            "time": "01:00 PM - 02:45 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "Vaughan Road Academy",
-            "swim_type": "Leisure Swim",
-            "time": "01:00 PM - 02:30 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "Piccininni",
-            "swim_type": "Leisure Swim",
-            "time": "01:15 PM - 04:00 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Lane Swim",
-            "time": "01:45 PM - 02:45 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "North Toronto",
-            "swim_type": "Leisure Swim",
-            "time": "02:00 PM - 03:30 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "Vaughan Road Academy",
-            "swim_type": "Lane Swim",
-            "time": "02:45 PM - 03:45 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "Hillcrest Community Centre",
-            "swim_type": "Lane Swim",
-            "time": "03:00 PM - 04:30 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "Wallace Emerson",
-            "swim_type": "Leisure Swim",
-            "time": "03:00 PM - 04:00 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "North Toronto",
-            "swim_type": "Lane Swim",
-            "time": "03:45 PM - 05:15 PM"
-        },
-        {
-            "date": "2026-10-24",
-            "pool_name": "Piccininni",
-            "swim_type": "Lane Swim",
-            "time": "04:15 PM - 05:15 PM"
-        },
         {
             "date": "2026-10-25",
             "pool_name": "Hillcrest Community Centre",
